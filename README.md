@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogesh Jalindar Bhosale
 - 👀 I’m interested in software development and discovering the field of IT.
 - 🌱 I’m currently learning software development on different educational sites.
-- 💞️ I’m not currently looking for job opportunities in software industry.
+- 💞️ I’m currently working in software industry.
 - 📫 You can reach me by mail. My mail id is : bhosaleyogesh5000@gmail.com
 
 <!---
